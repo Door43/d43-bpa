@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bpa:home|Door43 (bpa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bpa|d43-bpa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bpa/archive/master.zip|d43-bpa.zip]]
+
+**Recent Changes**
+{{changes>ns = bpa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bpa|Ethnologue data]]
+
